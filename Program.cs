@@ -11,6 +11,7 @@ namespace Git_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!!!");
+            Console.WriteLine("Add second commit!");
         }
     }
 }
