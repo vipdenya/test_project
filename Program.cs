@@ -13,6 +13,8 @@ namespace Git_Test
             Console.WriteLine("Hello GitHub!!!");
             Console.WriteLine("Add second commit!");
             Console.WriteLine("Add third commit after \"git push\"");
+
+            Console.WriteLine("New branch");
         }
     }
 }
