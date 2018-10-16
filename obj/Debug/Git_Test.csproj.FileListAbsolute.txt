@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\bin\Debug\Git_Test.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\bin\Debug\Git_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\bin\Debug\Git_Test.pdb
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\obj\Debug\Git_Test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\obj\Debug\Git_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\Git_Test\Git_Test\obj\Debug\Git_Test.pdb
